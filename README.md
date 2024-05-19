@@ -1,4 +1,4 @@
-E-learning анализ студентов Karpov Cources
+E-learning анализ данных о студентах Karpov Cources
 
 Технологический стек — Python, pandas, Git.
 
